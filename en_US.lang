@@ -1774,5 +1774,5 @@ translation.test.invalid2=hi %  s
 translation.test.invalid=hi %
 translation.test.none=Hello, world!
 translation.test.world=world
-
 key.zoomCamera=Zoom Camera
+options.autoJump=Auto-Jump
