@@ -1779,3 +1779,8 @@ item.egg_boiled.name=Вареное яйцо
 item.egg_pilled.name=Очищенное яйцо
 key.zoomCamera=Увеличить масштаб камеры
 options.autoJump=Авто-Прыжок
+
+options.renderEntityDistance=Прорисовка энтити
+item.mapCave.name=Пещерная Карта
+tile.stonecutter.name=Камнерез
+container.stonecutter=Камнерез

@@ -1776,3 +1776,8 @@ translation.test.none=Hello, world!
 translation.test.world=world
 key.zoomCamera=Zoom Camera
 options.autoJump=Auto-Jump
+
+options.renderEntityDistance=Entity Render Distance
+item.mapCave.name=Cave Map
+tile.stonecutter.name=Stonecutter
+container.stonecutter=Stonecutter
