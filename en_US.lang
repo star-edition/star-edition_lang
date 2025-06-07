@@ -1811,4 +1811,8 @@ options.gamerules.specialMoonCycle=Special Moon Events
 options.gamerules.seasonDuration=Season Duration
 commands.info.usage=/info <time|name|last|raining|thundering|gametype|hardcore|terrain|commands|initialized|seed|spawn>
 commands.gamerule.info.seasonDuration=The duration of Seasons, in days. 0 = Disabled.
+season.0=Spring
+season.1=Summer
+season.2=Fall
+season.3=Winter
 
