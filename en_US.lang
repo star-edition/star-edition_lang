@@ -1815,4 +1815,5 @@ season.0=Spring
 season.1=Summer
 season.2=Fall
 season.3=Winter
-
+unit.day.single=Day
+unit.day.plural=Days
